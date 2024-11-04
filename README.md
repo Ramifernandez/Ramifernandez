@@ -1,5 +1,5 @@
 ![MasterHead](https://i.ibb.co/1v60nYj/IMG-20241104-091314.png)
-<h1 align="center">Hi 👋, I'm Ramiro</h1>
+<h1 align="center">Hola!!👋</h1>
 <h3 align="center">I am a junior data analyst and student🌱</h3>
 
 - 🌱 I'm currently learning **IA and Google Cloud data engineer (course)**
