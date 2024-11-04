@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/1v60nYj/IMG-20241104-091314.png)
+![MasterHead](https://i.postimg.cc/7PfdTyqj/Picsart-24-11-04-10-03-49-044.jpg)
 <h1 align="center">Hola!!👋</h1>
 <h3 align="center">I am a junior data analyst and student🌱</h3>
 
