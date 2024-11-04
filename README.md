@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/gMrfZ1g/print.png)
+![MasterHead](https://i.ibb.co/qNDz75H/IMG-20241104-091048.png)
 <h1 align="center">Hi 👋, I'm Ramiro</h1>
 <h3 align="center">I am a junior data analyst and student🌱</h3>
 
