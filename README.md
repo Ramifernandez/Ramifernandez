@@ -1,4 +1,4 @@
-![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
+![MasterHead](https://i.ibb.co/gMrfZ1g/print.png)
 <h1 align="center">Hi 👋, I'm Ramiro</h1>
 <h3 align="center">I am a junior data analyst and student🌱</h3>
 
